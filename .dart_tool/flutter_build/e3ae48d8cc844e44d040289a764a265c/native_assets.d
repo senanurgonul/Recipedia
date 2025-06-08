@@ -1,0 +1,1 @@
+ C:\\Users\\MSI\\Desktop\\recipe_prokit\\.dart_tool\\flutter_build\\e3ae48d8cc844e44d040289a764a265c\\native_assets.yaml: 

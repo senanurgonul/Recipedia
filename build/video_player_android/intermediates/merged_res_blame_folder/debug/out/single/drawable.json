@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MSI\\Desktop\\recipe_prokit\\build\\video_player_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\1325de473cff345a7e21a6b16b599b05\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\Desktop\\recipe_prokit\\build\\video_player_android\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\1325de473cff345a7e21a6b16b599b05\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\Desktop\\recipe_prokit\\build\\video_player_android\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\1325de473cff345a7e21a6b16b599b05\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\Desktop\\recipe_prokit\\build\\video_player_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\1325de473cff345a7e21a6b16b599b05\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
